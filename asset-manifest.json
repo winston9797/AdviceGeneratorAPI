@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdviceGeneratorAPI/static/css/main.aa2a292e.css",
+    "main.js": "/AdviceGeneratorAPI/static/js/main.b481a9b5.js",
+    "index.html": "/AdviceGeneratorAPI/index.html",
+    "static/media/icon-dice.svg": "/AdviceGeneratorAPI/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-desktop.svg": "/AdviceGeneratorAPI/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
+    "main.aa2a292e.css.map": "/AdviceGeneratorAPI/static/css/main.aa2a292e.css.map",
+    "main.b481a9b5.js.map": "/AdviceGeneratorAPI/static/js/main.b481a9b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2a292e.css",
+    "static/js/main.b481a9b5.js"
+  ]
+}
